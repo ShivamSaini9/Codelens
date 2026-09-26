@@ -1,0 +1,6 @@
+{
+  "name": "CodeLens",
+  "description": "Codebase Intelligence platform for codebase Q&A using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
