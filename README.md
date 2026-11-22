@@ -2,9 +2,6 @@
 
 CodeLens is an AI-powered codebase Q&A platform. It can ingest a GitHub repository or local ZIP, split source code into chunks, generate embeddings, store them in PostgreSQL with pgvector, retrieve relevant code using vector similarity, and use Gemini to generate context-aware answers.
 
-## JavaScript / JSX version
-
-This version has been converted from TypeScript/TSX to plain JavaScript/JSX. The frontend remains React + JSX and the backend/database services use JavaScript modules.
 
 ## Run locally
 
@@ -14,7 +11,6 @@ This version has been converted from TypeScript/TSX to plain JavaScript/JSX. The
 3. Run:
    `npm run dev`
 
-The application runs on port `3000`.
 
 ## Database
 
